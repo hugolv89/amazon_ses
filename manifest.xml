@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>Amazon SES</name>
+	<author>Hugo López Vázquez</author>
+	<version>1.0</version>
+	<id>amazon_ses</id>
+	<description>Amazon SES Transport Handler</description>
+	<requires>
+		<type>elgg_release</type>
+		<version>3.0</version>
+	</requires>
+ 	<category>Esfera Plugins</category>
+	<category>communication</category>
+</plugin_manifest>
